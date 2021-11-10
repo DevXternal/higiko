@@ -1,7 +1,7 @@
 {
 "name": "HiGiKo App",
   
-  "short_name": "HGK App",
+  "short_name": "Network",
   
   "start_url": ".",
 
@@ -11,5 +11,7 @@
   
   "display": "standalone",
   
-  "scope": "/"
+  "scope": "/",
+  
+  "description": "A free network based on M E M E S"
 }
